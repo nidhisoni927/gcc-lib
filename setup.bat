@@ -1,0 +1,1 @@
+echo "Path to Gcc will be setup"
